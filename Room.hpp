@@ -1,5 +1,8 @@
 #pragma once
-class Room
+#include "Space.hpp"
+
+class Room:
+	public Space
 {
 public:
 	Room();
