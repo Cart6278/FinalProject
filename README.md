@@ -7,5 +7,7 @@ The user at the beginning of the game chooses either to play as Harry Potter or 
 Included is a Makefile to ease compiling. 
 
 Two known issues being worked on:
+
 1)Step counter may not end the game correctly - Currently testing fix (Aug 2020)
+
 2)Validation loop in unknown place. Feedback was given on the assignment that the program entered a validation loop. Feedback did not state where the loop occurred, still searching.
